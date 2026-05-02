@@ -1,0 +1,27 @@
+# Gizli dosyalar — ASLA GitHub'a yükleme!
+admin_panel/.streamlit/secrets.toml
+mobile_app/.env
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Flet build çıktıları
+mobile_app/build/
+*.apk
+
+# Sanal ortamlar
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,5 @@
+streamlit>=1.40.0
+supabase>=2.9.0
+pandas>=2.0.0
+folium>=0.17.0
+streamlit-folium>=0.20.0
